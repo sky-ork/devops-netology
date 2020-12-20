@@ -1,6 +1,6 @@
 # Домашнее задание к занятию «2.1. Системы контроля версий.»
 
-## Репозиторий devops-netology-sky
+## Репозиторий devops-netology
 
 ### Описание /terraform/.gitignore
 
@@ -16,3 +16,4 @@
    на _override.tf, _override.tf.json
  - файлы конфигурации CLI .terraformrc, terraform.rc
 
+Evgeniy Kudryavtsev
