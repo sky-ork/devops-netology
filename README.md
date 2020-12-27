@@ -17,3 +17,5 @@
  - файлы конфигурации CLI .terraformrc, terraform.rc
 
 New branch
+
+Edit test 2.2.4
