@@ -16,3 +16,4 @@
    на _override.tf, _override.tf.json
  - файлы конфигурации CLI .terraformrc, terraform.rc
 
+New branch
